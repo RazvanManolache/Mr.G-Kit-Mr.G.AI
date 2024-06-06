@@ -1,0 +1,6 @@
+[submodule "python_embedded"]
+	path = python_embedded
+	url = https://github.com/RazvanManolache/Mr.G-Python-Embedded-Mr.G-AI
+[submodule "ComfyUI"]
+	path = ComfyUI
+	url = https://github.com/RazvanManolache/Mr.G-ComfyUI
