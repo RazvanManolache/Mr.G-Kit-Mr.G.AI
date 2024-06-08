@@ -32,7 +32,6 @@ aiosignal
 attrs 
 frozenlist 
 yarl 
-websocket 
 peewee
 matplotlib 
 pytest 
